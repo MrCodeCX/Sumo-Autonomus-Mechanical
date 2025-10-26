@@ -1,0 +1,4 @@
+Chasis Stator Module A
+Chasis Stator Module B
+Chasis Stator Module C
+Son Linked Parts en cadena, Chasis Stator Module C Tambien usa el linked part JSUMO_JOIN

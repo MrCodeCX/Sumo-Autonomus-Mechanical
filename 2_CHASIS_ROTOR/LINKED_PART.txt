@@ -1,0 +1,3 @@
+CHASIS_ROTOR is a linked part, only edit chasis_rotor
+
+Chasis Bottom and Top depends on Chasis_Rotor
